@@ -109,7 +109,7 @@ Backend project focused on API development, relational database modelling, Prism
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/anishhh7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/anishpokharel7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://instagram.com/psyphix_)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square\&logo=youtube\&logoColor=white)](https://youtube.com/@anishhh7)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:pokharelanish099@gmail.com)
